@@ -17,7 +17,7 @@ String dd = "|dd";
 String dd = "dd
 ```
  
-## **세미콜론 자동 생성**
+## 자동완성[세미콜론, 중괄호.. 생성]**
 - **Ctrl + Shift + Enter**
 ```java
 String ddd = "dd"
